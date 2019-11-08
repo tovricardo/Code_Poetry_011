@@ -44,3 +44,5 @@ Curtis Falkingham https://github.com/soundforascene/CodePoetry-Day-Night
 Lareb Pirzada https://github.com/lp625/Code_Poetry-
 
 Liliana Campuzano   https://github.com/MystG/Spaaaaace
+
+Darius Smith https://github.com/Haldrion/Code-Poem
