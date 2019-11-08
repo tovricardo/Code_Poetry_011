@@ -40,6 +40,8 @@ Arielle Cerini https://github.com/acerini/Learning_Python/blob/master/Poetic_Int
 
 Curtis Falkingham https://github.com/soundforascene/CodePoetry-Day-Night
 
+Lewis Kim https://github.com/lewisKkim/CodePoetry
+
 ----
 Lareb Pirzada https://github.com/lp625/Code_Poetry-
 
