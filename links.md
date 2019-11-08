@@ -17,3 +17,6 @@ Boyuan Zheng        https://github.com/Hanapon0412/Code_Poetry_011.git
 
 Lewis Kim https://github.com/lewisKkim/CodePoetry
 
+Bingyu Xia https://github.com/BingyuXia17/Kira_ACT_Poem.git
+
+
