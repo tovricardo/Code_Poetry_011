@@ -20,3 +20,10 @@ Lewis Kim https://github.com/lewisKkim/CodePoetry
 Bingyu Xia https://github.com/BingyuXia17/Kira_ACT_Poem.git
 
 Yining Lai https://github.com/laiy3leo/Poem.git
+
+Nate Bennett https://github.com/natefbennett/codePoems
+
+Jordan Jackson https://github.com/jyjster/CodePoem.git
+
+Blake Irons https://github.com/blake-irons/codePoem
+
