@@ -21,4 +21,6 @@ Bingyu Xia https://github.com/BingyuXia17/Kira_ACT_Poem.git
 
 Nate Bennett https://github.com/natefbennett/codePoems
 
+Jordan Jackson https://github.com/jyjster/CodePoem.git
+
 Blake Irons https://github.com/blake-irons/codePoem
