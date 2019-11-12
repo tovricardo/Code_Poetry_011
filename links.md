@@ -27,3 +27,4 @@ Jordan Jackson https://github.com/jyjster/CodePoem.git
 
 Blake Irons https://github.com/blake-irons/codePoem
 
+Ricardo https://github.com/aci-f19-org/Code_Poetry_011/pull/12/commits/75d50f743b1ae45e76b7ea21a9f189f38f6f149d
